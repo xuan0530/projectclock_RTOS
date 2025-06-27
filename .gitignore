@@ -1,0 +1,28 @@
+# Keil编译生成的文件
+Objects/
+Listings/
+*.axf
+*.hex
+*.bin
+*.map
+*.lnp
+*.htm
+*.build_log.htm
+
+# Keil工程文件（用户相关）
+*.uvguix*
+*.uvoptx
+*.bak
+*.orig
+
+# 编译中间文件
+*.o
+*.obj
+*.crf
+*.d
+*.lst
+*.dep
+
+# 调试文件
+JLinkLog.txt
+*.dbgconf
